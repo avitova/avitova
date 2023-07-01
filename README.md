@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A passionate software engineer intern and a student from Czech Republic</h3>
+<h3 align="center">A passionate Software Engineer and a student from Czech Republic</h3>
 
 
 - 🔭 I’m currently working on [foreman remote execution](https://github.com/theforeman/foreman_remote_execution)
