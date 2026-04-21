@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A passionate Software Engineer and a student from Czech Republic</h3>
+<h3 align="center">A passionate Software Engineer from Czech Republic</h3>
 
 
 
